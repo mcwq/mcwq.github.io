@@ -1,0 +1,10 @@
+body {
+    font-family: monospace;
+    background-color: aquamarine;
+    color: brown
+}
+
+img {
+    border-width: 5px;
+    size: 100%;
+}
